@@ -1,4 +1,4 @@
-<h1 align="center"> gatsby-md-fenced-block </h1>
+<h1 align="center"> gatsby-md-fenced-block  <img src="glue.png" alt="drawing" width="40"/></h1> 
 <p align="center">A fenced code block generator for md/mdx files used for making gatsby pages.</p> 
 
 
@@ -145,6 +145,10 @@ pre{
 }
 
 ```
+
+## Attribute
+
+The icon is taken from  <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 
 ## License
 
