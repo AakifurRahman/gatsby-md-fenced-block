@@ -1,0 +1,29 @@
+{
+  "name": "gatsby-md-fenced-block",
+  "version": "1.0.0",
+  "description": "A fenced code block generator for md/mdx files used for making gatsby pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AakifurRahman/gatsby-md-fenced-block.git"
+  },
+  "keywords": [
+    "fenced block",
+    "code block",
+    "gatsby code block",
+    "gatsby fenced block",
+    "md fenced block",
+    "mdx fenced block",
+    "md code block",
+    "mdx code block"
+  ],
+  "author": "Molla Aakifur Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AakifurRahman/gatsby-md-fenced-block/issues"
+  },
+  "homepage": "https://github.com/AakifurRahman/gatsby-md-fenced-block#readme"
+}

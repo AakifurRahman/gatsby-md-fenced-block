@@ -1,4 +1,4 @@
-<h1 align="center"> gatsby-md-fenced-block  <img src="glue.png" alt="drawing" width="40"/></h1> 
+<h1 align="center"> gatsby-md-fenced-block  <img src="icons/glue.png" alt="drawing" width="40"/></h1> 
 <p align="center">A fenced code block generator for md/mdx files used for making gatsby pages.</p> 
 
 
